@@ -4,6 +4,6 @@ A library to retrieve the system's configured locale and language settings
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/Shinmera/system-locale.git |
-| commit  | e9d6d20                                           |
+| commit  | 940468f                                           |
 | systems | system-locale                                     |
 |---------+---------------------------------------------------|
